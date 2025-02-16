@@ -307,15 +307,15 @@
   
   @media (max-width: 768px) {
     #sidebar {
-      width: 60px;
+      width: 45px;
       overflow: hidden;
     }
     .section{
-      margin-left: -0.9rem;
+      margin-left: -1.7rem;
       margin-right: -2.2rem;
     }
     .logo{
-      margin-left:-15px;
+      margin-left:-17.5px;
     }
     .copy{
       font-size:16px;
@@ -337,7 +337,9 @@
     #sidebar:hover .nav-links a span {
       display: inline-block;
     }
-  
+    .nav-links li {
+      font-size:9px;
+    }
     main {
       margin-left: 1rem;
       padding-top: 0px; /* Ensure sidebar doesn't overlap content on smaller screens */
