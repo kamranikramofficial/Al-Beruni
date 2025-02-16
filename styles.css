@@ -342,7 +342,7 @@
       padding-top: 0px; /* Ensure sidebar doesn't overlap content on smaller screens */
     }
   .project-features>li{
-    font-size: 10px;
+    font-size: 14px;
   }
     .card-content,
     .card-content.reverse {
