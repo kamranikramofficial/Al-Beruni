@@ -337,14 +337,13 @@
     #sidebar:hover .nav-links a span {
       display: inline-block;
     }
-    .nav-links li {
-      font-size:9px;
-    }
     main {
       margin-left: 1rem;
       padding-top: 0px; /* Ensure sidebar doesn't overlap content on smaller screens */
     }
-  
+  .project-features>li{
+    font-size: 10px;
+  }
     .card-content,
     .card-content.reverse {
       flex-direction: column;
