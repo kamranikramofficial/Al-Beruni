@@ -1,50 +1,30 @@
+Alberuni Education System 📚
+Welcome to the Alberuni Education System project! 🎓 This project includes a website to introduce Kamran Ikram, my school, teachers, and my project — ESP8266 Wi-Fi Jammer.
 
-    <h1><span>🌟</span> Al-Beruni</h1>
-    
-    <p>Welcome to my first official static website project! <span style="font-size: 1.2em;">🎉</span></p>
+Table of Contents 📋
+Introduction
+Website Setup
+ESP8266 Wi-Fi Jammer
+Project Installation ⚙️
+Usage
+License
+Introduction 📖
+About Me 👨‍🎓
+Hi, I'm Kamran Ikram — a student with a passion for electronics and coding! In this project, I showcase my journey of learning and exploring new technologies like the ESP8266 Wi-Fi Jammer.
 
-    <h2 style="color: #3498db;"><span style="font-size: 1.2em;">📝</span> About</h2>
-    <p>Al-Beruni is a modern static website that tracks visitor interactions and provides an engaging user experience. Built with pure HTML, CSS, and JavaScript, this project represents my journey into web development.</p>
+My School 🏫
+I attend Alberuni Education System, which offers a great learning environment. It is a school that believes in the power of education and modern technologies.
 
-    <h2 style="color: #3498db;"><span style="font-size: 1.2em;">🚀</span> Features</h2>
-    <ul>
-        <li><span style="font-size: 1.2em;">💫</span> Modern and responsive design</li>
-        <li><span style="font-size: 1.2em;">⚡</span> Fast loading performance</li>
-        <li><span style="font-size: 1.2em;">🎨</span> Clean and intuitive interface</li>
-    </ul>
+My Teachers 👩‍🏫👨‍🏫
+Our teachers are enthusiastic, experienced, and dedicated to helping students succeed in their academic journeys.
 
-    <h2 style="color: #3498db;"><span style="font-size: 1.2em;">🛠️</span> Technologies Used</h2>
-    <ul>
-        <li>HTML5</li>
-        <li>CSS3</li>
-        <li>JavaScript</li>
-    </ul>
+My Project 🚀
+The ESP8266 Wi-Fi Jammer project demonstrates how to block Wi-Fi signals in a specified area to enhance security and privacy.
 
-    <h2 style="color: #3498db;"><span style="font-size: 1.2em;">📈</span> Project Stats</h2>
-    <div style="background-color: #f2f2f2; padding: 15px; border-radius: 5px; margin-bottom: 20px;">
-        <p><span style="font-size: 1.2em;">🔍</span> Visitor Count: Active tracking</p>
-        <p><span style="font-size: 1.2em;">💻</span> Code Distribution:</p>
-        <ul>
-            <li>HTML: 43%</li>
-            <li>CSS: 35.1%</li>
-            <li>JavaScript: 21.9%</li>
-        </ul>
-    </div>
+Website Setup 🌐
+This project includes a website built with HTML, CSS, and JavaScript. The website provides an introduction to me, my school, teachers, and the ESP8266 Wi-Fi Jammer project.
 
-    <h2 style="color: #3498db;"><span style="font-size: 1.2em;">🙏</span> Acknowledgments</h2>
-    <ul>
-        <li>Thanks to all visitors who help make this project better</li>
-        <li>Special thanks to the web development community for inspiration</li>
-    </ul>
-
-    <h2 style="color: #3498db;"><span style="font-size: 1.2em;">📞</span> Contact</h2>
-    <div style="background-color: #f2f2f2; padding: 15px; border-radius: 5px; margin-bottom: 20px;">
-        <p>Found a mistake or have suggestions? Feel free to reach out:</p>
-        <ul>
-            <li><span style="font-size: 1.2em;">📧</span> Email: <a href="mailto:kamranikram706@gmail.com" style="color: #3498db; text-decoration: none;">kamranikram706@gmail.com</a></li>
-            <li><span style="font-size: 1.2em;">📱</span> Phone: <a href="tel:+923022901833" style="color: #3498db; text-decoration: none;">03022901833</a></li>
-        </ul>
-    </div>
-
-    <hr>
-    <p><span style="font-size: 1.2em;">⭐</span> Don't forget to star this repository if you found it helpful!</p>
+Files Included:
+index.html - Main HTML file for the website.
+styles.css - Styling for the website.
+scripts.js - JavaScript for smooth navigation.
