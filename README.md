@@ -1,5 +1,5 @@
 
-    <h1 style="color: #2c3e50; text-align: center;"><span style="font-size: 1.2em;">🌟</span> Al-Beruni</h1>
+    <h1><span>🌟</span> Al-Beruni</h1>
     
     <p>Welcome to my first official static website project! <span style="font-size: 1.2em;">🎉</span></p>
 
