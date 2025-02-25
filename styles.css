@@ -195,7 +195,7 @@
   }
   
   .teacher-card {
-    flex-basis: calc(50% - 10px);
+    flex-basis: calc(45% - 10px);
     text-align: center;
     padding: 20px;
   }
@@ -360,7 +360,6 @@
       margin-left: 0;
       margin-bottom: 20px;
     }
-  
     .teacher-card {
       flex-basis: 100%;
     }
@@ -383,7 +382,10 @@
     .card-content.reverse {
       flex-direction: column;
     }
-  
+    .section{
+      margin-left: -1rem;
+      margin-right: -2.2rem;
+    }
     .profile-img,
     .school-img,
     .project-img {
@@ -394,7 +396,9 @@
       margin-bottom: 20px;
     }
   }
-  
+  .teacher-card {
+    flex-basis: 100%;
+  }
   @keyframes fadeIn {
     from {
       opacity: 0;
