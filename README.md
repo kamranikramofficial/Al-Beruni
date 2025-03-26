@@ -7,11 +7,11 @@ Javascript,HTML,CSS...
 
 
 ## 🔗 Links
-[![webside](https://img.shields.io/badge/webside-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://kamranikramofficial.github.io/simple-mini-project/)
+[![webside](https://img.shields.io/badge/webside-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://al-beruni.vercel.app/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamranikramofficial/)
 
 ## Authors
 
-- [@kamranikramofficial](https://www.github.com/octokatherine)
+- [@kamranikramofficial](https://www.github.com/kamranikramofficial)
 
